@@ -1,33 +1,25 @@
 ---
 layout: default
-title: Getting Started
-quote: The essential part of creativity is not being afraid to fail.
-cite: Edwin H. Land
+title: The Ghosts of Texas
+quote: "I don't live in darkness; darkess lives in me"
+cite: unknown
 ---
 
-This example is just meant to get you started and show you a little of what's
-possible with GitHub Pages. In just 3 simple steps, you will have your own
-website.
+As Halloween draws near, it is time to explore the dark secrets and past of Texas. As we count down the thirteen days of Halloween, we will explore some of the most haunted towns in Texas.
 
-1. [Create a Github account](https://github.com/join)
-2. [Fork this repository](https://github.com/steveortiz/tamuhack/fork)
-3. Edit the `_config.yml` file
-
-{% highlight yaml %}
-title: Hack on GitHub Pages
-description: >
-  This site will get you started hacking with GitHub Pages.
-baseurl: "/tamuhack" # the subpath of your site
-url: "https://steveortiz.github.io"
-email: steve@ortizaggies.com
-github_username:  steveortiz
-linkedin_username: trustycoder
-twitter_username: trustycoder
-{% endhighlight %}
-
-That's it! You should now have a website of your own.
-
-https://`your github username`.github.io/tamuhack
+1. La Carafe - Houston, Tx
+2. Presidio La Bahia - Goliad, TX
+3. Baker Hotel - Mineral Wells, Tx
+4. Spaghetti Warehouse - Houston, TX
+5. The Jefferson Hotel - Jefferson, TX
+6. Hotel Galvez - Galveston, TX
+7. Granbury Opera House - Granbury, TX
+8. Emily Morgan Hotel - San Antonio, TX
+9. Bragg Road Ghost Lights - Saratoga, TX
+10. Elder Street Artist Lofts - Houston, TX
+11. Littlefield House - Austin, TX
+12. Driskill Hotel - Austin, TX
+13. The White Sanitarium - Wichita Falls, TX
 
 There's so much more you can do with GitHub Pages, so don't stop here.
 Explore the code in this project and start making it your own.
