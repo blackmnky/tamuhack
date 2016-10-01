@@ -27,7 +27,7 @@ $brand-danger:          #FFC300 !default;
 //## Settings for some of the most global styles.
 
 //** Background color for `<body>`.
-$body-bg:               #fff #272322;
+$body-bg:               #fff !default;
 //** Global text color on `<body>`.
 $text-color:            #900C3F !default;
 
@@ -110,7 +110,7 @@ $border-radius-small:       3px !default;
 //** Global color for active items (e.g., navs or dropdowns).
 $component-active-color:    #fff !default;
 //** Global background color for active items (e.g., navs or dropdowns).
-$component-active-bg:       $brand-primary !default;
+$component-active-bg:       $brand-primary #272322;
 
 //** Width of the `border` for generating carets that indicate dropdowns.
 $caret-width-base:          4px !default;
