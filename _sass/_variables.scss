@@ -27,7 +27,7 @@ $brand-danger:          #FFC300 !default;
 //## Settings for some of the most global styles.
 
 //** Background color for `<body>`.
-$body-bg:               #000000 !default;
+$body-bg:               #fff !default;
 //** Global text color on `<body>`.
 $text-color:            #900C3F !default;
 
@@ -182,7 +182,7 @@ $btn-border-radius-small:        $border-radius-small !default;
 //##
 
 //** `<input>` background color
-$input-bg:                       #fff !default;
+$input-bg:                       #000000 !default;
 //** `<input disabled>` background color
 $input-bg-disabled:              $gray-lighter !default;
 
