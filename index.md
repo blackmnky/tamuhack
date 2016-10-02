@@ -21,9 +21,3 @@ As Halloween draws near, it is time to explore the dark secrets and past of Texa
 12. Driskill Hotel - Austin, TX
 13. The White Sanitarium - Wichita Falls, TX
 
-There's so much more you can do with GitHub Pages, so don't stop here.
-Explore the code in this project and start making it your own.
-Continue on to the [Resources]({{ "/resources" | prepend: site.baseurl }})
-section to learn more about GitHub Pages and other handy tools.
-
-If you have questions, please look for me at the hackathon. I am here to help!
