@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Ghosts of Texas
+title: 13 Days of Halloween
 quote: "I don't live in darkness; darkess lives in me"
 cite: unknown
 ---
