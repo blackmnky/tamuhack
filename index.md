@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Sleep Not Required
+title: Welcome Page
 quote: Sleep is the best meditation.  
 cite: Dalai Lama
 ---
 
-It's midnight as I sit here writing this to you. My mind is foggy and my eyes are heavy. I am in a constant fight with myself; my body is telling me to sleep while my mind and heart are telling me to keep on going. It's the beginning of October and here I sit at my very first hackathon. Many of you have never of this term before and probably will never hear it again. When most of the world hears that someone is a programmer or a computer science major, they picture someone huddled over a computer with baggy hoodie pulled over their eyes as the plan the demise of the world, never stopping until their goal is reached. I'm here to tell you that most nights out of the year, your wrong. Programmmers/developers enjoy sleep just as much as the next person and they have no intention of destroying the country they grew up in. But every so often, one night out of the month, we embrace this sterotype. We all gather togther and spend 24 hours challenging not only ourselves but also each other. We aren't fighting to see who can come up with the evilest plan; we aren't fighting to prove who is better. We simply want to push the boundaries of the world we know and love. We want to grow the world of technology and expand our future. We want to make the internet safer and protect those who are ignorant. We want to push the envelope just one more inch. Technology only has the boundaries that we give it. These hackathons that come once a month give us a chance to put our minds together for the good of the technilogical development. Were constantly trying to evolve and develop something better. We psuh our bodies to the limit in the hopes of growing higher and leaving with a bigger passion than when we came. As I sit here writing I think about all the test's we all faced this past week and will continue to face on Monday. We are all exhausted and ready to sleep until winter, but we can't; we won't. We didn't come here to stay stagnant; we came to grow and learn and reach higher. The expansion of knowledge is powerful and addicting. How can we sleep when there is still so much left to learn? Sleep is for the weak this weekend, and this weekend that won't be any of us. We see the gears at work; we know the fruits of our labor will be worth it, and the joy of learning is more powerful than the need to sleep.  
+Welcome to my page!!  
 
 
